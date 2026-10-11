@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="210mm" height="297mm" viewBox="0 0 210mm 297mm"
+    preserveAspectRatio="none">
+
+        <desc> A4 GOST </desc>
+
+        <rect id="a4format"
+            x="0"
+            y="0"
+            width="210mm"
+            height="297mm"
+
+            fill="transparent"
+            stroke="black"
+            stroke-width="1"
+        />
+
+        <rect id="outsideStamp"
+            x="20mm"
+            y="5mm"
+            width="185mm"
+            height="287mm"
+
+            fill="transparent"
+            stroke="black"
+            stroke-width="2"
+        />
+
+        <rect id="outsideStamp"
+            x="20mm"
+            y="5mm"
+            width="70mm"
+            height="17mm"
+
+            fill="transparent"
+            stroke="black"
+            stroke-width="2"
+        />
+
+
+
+</svg>
