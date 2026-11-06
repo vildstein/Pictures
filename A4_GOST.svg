@@ -27,7 +27,7 @@
             stroke-width="2"
         />
 
-        <rect id="outsideStamp"
+        <rect id="TopFrame"
             x="20mm"
             y="5mm"
             width="70mm"
@@ -36,6 +36,105 @@
             fill="transparent"
             stroke="black"
             stroke-width="2"
+        />
+
+        <line id="StampTopLine"
+            x1="20mm" 
+            y1="237mm" 
+            x2="205mm" 
+            y2="237mm" 
+            stroke="black" 
+            stroke-width="2"
+        />
+
+        <line id="StampStrict"
+            x1="85mm" 
+            y1="237mm" 
+            x2="85mm" 
+            y2="292mm" 
+            stroke="black" 
+            stroke-width="2"
+        />
+
+        
+        <line x1="20mm" 
+            y1="242mm"  
+            x2="85mm" 
+            y2="242mm" 
+            stroke="black" 
+            stroke-width="1"
+        />
+
+        <line x1="20mm" 
+            y1="247mm"  
+            x2="85mm" 
+            y2="247mm" 
+            stroke="black" 
+            stroke-width="1"
+        />
+       
+       <line x1="20mm" 
+            y1="252mm"  
+            x2="85mm" 
+            y2="252mm" 
+            stroke="black" 
+            stroke-width="1"
+        />
+      
+      <line x1="20mm" 
+            y1="257mm"  
+            x2="85mm" 
+            y2="257mm" 
+            stroke="black" 
+            stroke-width="3"
+        />
+
+        <line x1="20mm" 
+            y1="262mm"  
+            x2="85mm" 
+            y2="262mm" 
+            stroke="black" 
+            stroke-width="3"
+        />
+
+        <line x1="20mm" 
+            y1="267mm"  
+            x2="85mm" 
+            y2="267mm" 
+            stroke="black" 
+            stroke-width="1"
+        />
+
+        <line x1="20mm" 
+            y1="272mm"  
+            x2="85mm" 
+            y2="272mm" 
+            stroke="black" 
+            stroke-width="1"
+        />
+
+        <line x1="20mm" 
+            y1="277mm"  
+            x2="85mm" 
+            y2="277mm" 
+            stroke="black" 
+            stroke-width="1"
+        />
+
+        <line x1="20mm" 
+            y1="282mm"  
+            x2="85mm" 
+            y2="282mm" 
+            stroke="black" 
+            stroke-width="1"
+        />
+
+        <line x1="20mm" 
+            y1="287mm"  
+            x2="85mm" 
+            y2="287mm" 
+            stroke="black" 
+            stroke-width="1"
         />
 
 
